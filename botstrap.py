@@ -17,9 +17,9 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", None)
 GUILD_ID = os.getenv("GUILD_ID", None)
 
 COMMUNITY_FEATURE = "COMMUNITY"
-PYTHON_HELP_CHANNEL_NAME = "python_help"
-PYTHON_HELP_CATEGORY_NAME = "python_help_system"
-ANNOUNCEMENTS_CHANNEL_NAME = "announcements"
+PYTHON_HELP_CHANNEL_NAME = "python_general"
+PYTHON_HELP_CATEGORY_NAME = "python_general"
+ANNOUNCEMENTS_CHANNEL_NAME = "python_general"
 RULES_CHANNEL_NAME = "rules"
 GUILD_FORUM_TYPE = 15
 
